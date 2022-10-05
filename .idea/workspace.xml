@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="565a8f62-3759-436f-a65f-2e0f02c4a18c" name="Changes" comment="Updated and fixed naming">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="565a8f62-3759-436f-a65f-2e0f02c4a18c" name="Changes" comment="Added the Dog picture to the README.md.">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <updated>1664823840862</updated>
       <workItem from="1664823842149" duration="1444000" />
       <workItem from="1664990959430" duration="146000" />
-      <workItem from="1664993665825" duration="1494000" />
+      <workItem from="1664993665825" duration="1613000" />
     </task>
     <task id="LOCAL-00001" summary="Updated and fixed naming">
       <created>1664824449805</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664824682946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added the Dog picture to the README.md.">
+      <created>1664995263008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664995263008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated and fixed naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated and fixed naming" />
+    <MESSAGE value="Added the Dog picture to the README.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Dog picture to the README.md." />
   </component>
 </project>
